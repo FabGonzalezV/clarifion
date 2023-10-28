@@ -2,11 +2,11 @@
 
 ![movil version](/screenshops/mobile.png)
 
-![version for tablets](/screenshops/mobile (1).png)
+![version for tablets](/screenshops/tablet.png)
 
-![version for desk](/screenshops/mobile(2) .png)
+![version for desk](/screenshops/desk.png)
 
-![version for desk](/screenshops/mobile(3) .png)
+![version for desk](/screenshops/desk-2.png)
 
 
 This is [view in real time](https://clarifion-test.web.app/)  
