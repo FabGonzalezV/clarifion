@@ -1,5 +1,16 @@
 # Clarifion test
 
+![movil version](/screenshops/mobile.png)
+
+![version for tablets](/screenshops/mobile(1).png)
+
+![version for desk](/screenshops/mobile(2).png)
+
+![version for desk](/screenshops/mobile(3).png)
+
+
+This is [view in real time](https://clarifion-test.web.app/)  
+
 This project was a test for an interview that  I  presented for a job as a web developer. The Test consisted of replicating a figma design, so, my work was to replicate the same design with any technologies for front-end development, such as react or any other. 
 
 
